@@ -1,0 +1,16 @@
+# Ignore the virtual environment
+global_venv/
+.env/
+env
+
+# Ignore Python bytecode files
+*.pyc
+*.pyo
+*.pyd
+
+*/migrations/*
+# Ignore logs
+*.log
+
+# Ignore the cache
+__pycache__/
