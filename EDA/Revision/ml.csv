@@ -1,6 +1,6 @@
 ,vin,manufacturer,year,color,body_type,engine_type,transmission,fuel_type,seating_capacity,kilometers_driven,vehicle_condition_status,selling_price,owner_name,owner_profession,owner_age,owner_district,purchase_price,purchase_date
 0,QPHT622T547G7YY51,Chevrolet,1999,orange,Convertible,electric,manual,biodiesel,7,84.65,active,256.19,KANEZA Michele Phoenix,agriculturalist,65,kigali_kicukiro,256.19,2018-02-15
-1,USILGOGS66KQDI8AS,Toyota,,black,SUV,diesel,manual,hybrid,8,57.65,active,159.80,UHIRIWE CHRISOSTOM,writer,40,west_karongi,159.80,2005-11-14
+1,USILGOGS66KQDI8AS,Toyota,1990,black,SUV,diesel,manual,hybrid,8,57.65,active,159.80,UHIRIWE CHRISOSTOM,writer,40,west_karongi,159.80,2005-11-14
 2,4H0LUVAZE5ZKU6B8C,Volkswagen,1991,blue,Wagon,diesel,automatic,hybrid,8,38.08,inactive,293.10,IRIBAGIZA Fanny,journalist,64,south_nyamagabe,293.10,2019-02-04
 3,HKQU9VN0D0WYTD4P1,Toyota,1994,gray,Hatchback,petrol,manual,gasoline,3,34.99,inactive,729.63,UWUMUGISHA Heloise Rugie,engineer,53,south_kamonyi,729.63,2002-03-07
 4,UC1OGL1I0CET7OHZP,Audi,2000,metallic_silver,Sedan,petrol,manual,hydrogen,5,27.93,active,418.36,NDAYISHIMIYE Gilbert,blacksmith,70,east_kirehe,418.36,2018-09-04
